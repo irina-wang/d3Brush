@@ -1,5 +1,8 @@
 # d3Brush
 
+A visual analytics tool that helps user to explore the relationship between UK household expenditure change over years through coordinated multiple views. The tool uses two distinct views, a stacked area chart and a timeline chart, to support the investigation of a single conceptual entity.
+
+
 ```bash
 .
 ├── css
@@ -9,17 +12,6 @@
 ├── data
 │   └── uk-household-purchases.json
 ├── fonts
-│   ├── FontAwesome.otf
-│   ├── fontawesome-webfont.eot
-│   ├── fontawesome-webfont.svg
-│   ├── fontawesome-webfont.ttf
-│   ├── fontawesome-webfont.woff
-│   ├── fontawesome-webfont.woff2
-│   ├── glyphicons-halflings-regular.eot
-│   ├── glyphicons-halflings-regular.svg
-│   ├── glyphicons-halflings-regular.ttf
-│   ├── glyphicons-halflings-regular.woff
-│   └── glyphicons-halflings-regular.woff2
 ├── index.html
 └── js
     ├── bootstrap.min.js
